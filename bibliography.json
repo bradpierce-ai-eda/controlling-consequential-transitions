@@ -1,0 +1,2731 @@
+{
+  "schema_version": 1,
+  "purpose": "Reusable records for works actually cited by the frozen publication.",
+  "canonical_publication": {
+    "doi": "10.5281/zenodo.22890942",
+    "concept_doi": "10.5281/zenodo.22890941"
+  },
+  "authority": "Published reference strings and manuscript hyperlinks; official retrieval receipts are kept distinct from inferred metadata.",
+  "generated_on": "2026-10-12",
+  "counts": {
+    "reference_slots": 23,
+    "works": 28,
+    "reference_work_links": 28,
+    "composite_slots": 5
+  },
+  "field_completeness": {
+    "title": 28,
+    "authors": 28,
+    "issued": 4,
+    "url": 28,
+    "unknown_issued": 24
+  },
+  "reference_slots": [
+    {
+      "id": "ref-001",
+      "number": 1,
+      "raw_reference": "[1] Brad Pierce, “Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,” Zenodo, 2026.",
+      "published_text": "Brad Pierce, “Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,” Zenodo, 2026.",
+      "published_markdown": "Brad Pierce, “[Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents](https://doi.org/10.5281/zenodo.22842197),” Zenodo, 2026.",
+      "work_ids": [
+        "work-cct_ref_001"
+      ]
+    },
+    {
+      "id": "ref-002",
+      "number": 2,
+      "raw_reference": "[2] Temporal Documentation, “Temporal Workflow.”",
+      "published_text": "Temporal Documentation, “Temporal Workflow.”",
+      "published_markdown": "Temporal Documentation, [“Temporal Workflow.”](https://docs.temporal.io/workflows)",
+      "work_ids": [
+        "work-cct_ref_002"
+      ]
+    },
+    {
+      "id": "ref-003",
+      "number": 3,
+      "raw_reference": "[3] Temporal Documentation, “Events and Event History.”",
+      "published_text": "Temporal Documentation, “Events and Event History.”",
+      "published_markdown": "Temporal Documentation, [“Events and Event History.”](https://docs.temporal.io/workflow-execution/event)",
+      "work_ids": [
+        "work-cct_ref_003"
+      ]
+    },
+    {
+      "id": "ref-004",
+      "number": 4,
+      "raw_reference": "[4] Dapr Documentation, “Workflow Protocol — State & History” and “Workflow overview.”",
+      "published_text": "Dapr Documentation, “Workflow Protocol — State & History” and “Workflow overview.”",
+      "published_markdown": "Dapr Documentation, [“Workflow Protocol — State & History”](https://docs.dapr.io/contributing/protocol-reference/workflow-protocol/workflow-protocol-state-and-history/) and [“Workflow overview.”](https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/)",
+      "work_ids": [
+        "work-cct_ref_004",
+        "work-cct_ref_004_b"
+      ]
+    },
+    {
+      "id": "ref-005",
+      "number": 5,
+      "raw_reference": "[5] Dapr Documentation, “Workflow history signing.”",
+      "published_text": "Dapr Documentation, “Workflow history signing.”",
+      "published_markdown": "Dapr Documentation, [“Workflow history signing.”](https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-signing/)",
+      "work_ids": [
+        "work-cct_ref_005"
+      ]
+    },
+    {
+      "id": "ref-006",
+      "number": 6,
+      "raw_reference": "[6] Dapr Documentation, “Workflow history propagation.”",
+      "published_text": "Dapr Documentation, “Workflow history propagation.”",
+      "published_markdown": "Dapr Documentation, [“Workflow history propagation.”](https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-propagation/)",
+      "work_ids": [
+        "work-cct_ref_006"
+      ]
+    },
+    {
+      "id": "ref-007",
+      "number": 7,
+      "raw_reference": "[7] Dapr Documentation, “WorkflowAccessPolicy spec.”",
+      "published_text": "Dapr Documentation, “WorkflowAccessPolicy spec.”",
+      "published_markdown": "Dapr Documentation, [“WorkflowAccessPolicy spec.”](https://docs.dapr.io/reference/resource-specs/workflow-access-policy-schema/)",
+      "work_ids": [
+        "work-cct_ref_007"
+      ]
+    },
+    {
+      "id": "ref-008",
+      "number": 8,
+      "raw_reference": "[8] AWS Step Functions Developer Guide, “Choosing workflow type in Step Functions.”",
+      "published_text": "AWS Step Functions Developer Guide, “Choosing workflow type in Step Functions.”",
+      "published_markdown": "AWS Step Functions Developer Guide, [“Choosing workflow type in Step Functions.”](https://docs.aws.amazon.com/step-functions/latest/dg/choosing-workflow-type.html)",
+      "work_ids": [
+        "work-cct_ref_008"
+      ]
+    },
+    {
+      "id": "ref-009",
+      "number": 9,
+      "raw_reference": "[9] AWS Step Functions Developer Guide, “Discover service integration patterns in Step Functions.”",
+      "published_text": "AWS Step Functions Developer Guide, “Discover service integration patterns in Step Functions.”",
+      "published_markdown": "AWS Step Functions Developer Guide, [“Discover service integration patterns in Step Functions.”](https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html)",
+      "work_ids": [
+        "work-cct_ref_009"
+      ]
+    },
+    {
+      "id": "ref-010",
+      "number": 10,
+      "raw_reference": "[10] AWS Step Functions API Reference, “GetExecutionHistory.”",
+      "published_text": "AWS Step Functions API Reference, “GetExecutionHistory.”",
+      "published_markdown": "AWS Step Functions API Reference, [“GetExecutionHistory.”](https://docs.aws.amazon.com/step-functions/latest/apireference/API_GetExecutionHistory.html)",
+      "work_ids": [
+        "work-cct_ref_010"
+      ]
+    },
+    {
+      "id": "ref-011",
+      "number": 11,
+      "raw_reference": "[11] Camunda 8 Documentation, “User tasks” and “User task authorization.”",
+      "published_text": "Camunda 8 Documentation, “User tasks” and “User task authorization.”",
+      "published_markdown": "Camunda 8 Documentation, [“User tasks”](https://docs.camunda.io/docs/components/modeler/bpmn/user-tasks/) and [“User task authorization.”](https://docs.camunda.io/docs/components/tasklist/user-task-authorization/)",
+      "work_ids": [
+        "work-cct_ref_011",
+        "work-cct_ref_011_b"
+      ]
+    },
+    {
+      "id": "ref-012",
+      "number": 12,
+      "raw_reference": "[12] LangChain Documentation, “LangGraph Persistence.”",
+      "published_text": "LangChain Documentation, “LangGraph Persistence.”",
+      "published_markdown": "LangChain Documentation, [“LangGraph Persistence.”](https://docs.langchain.com/oss/python/langgraph/persistence)",
+      "work_ids": [
+        "work-cct_ref_012"
+      ]
+    },
+    {
+      "id": "ref-013",
+      "number": 13,
+      "raw_reference": "[13] LangChain Documentation, “LangGraph Interrupts.”",
+      "published_text": "LangChain Documentation, “LangGraph Interrupts.”",
+      "published_markdown": "LangChain Documentation, [“LangGraph Interrupts.”](https://docs.langchain.com/oss/python/langgraph/interrupts)",
+      "work_ids": [
+        "work-cct_ref_013"
+      ]
+    },
+    {
+      "id": "ref-014",
+      "number": 14,
+      "raw_reference": "[14] Open Policy Agent Documentation, “How to Deploy OPA.”",
+      "published_text": "Open Policy Agent Documentation, “How to Deploy OPA.”",
+      "published_markdown": "Open Policy Agent Documentation, [“How to Deploy OPA.”](https://www.openpolicyagent.org/docs/deploy)",
+      "work_ids": [
+        "work-cct_ref_014"
+      ]
+    },
+    {
+      "id": "ref-015",
+      "number": 15,
+      "raw_reference": "[15] Open Policy Agent Documentation, “External Data” and “OPA Management APIs and Architecture.”",
+      "published_text": "Open Policy Agent Documentation, “External Data” and “OPA Management APIs and Architecture.”",
+      "published_markdown": "Open Policy Agent Documentation, [“External Data”](https://www.openpolicyagent.org/docs/external-data) and [“OPA Management APIs and Architecture.”](https://www.openpolicyagent.org/docs/management-introduction)",
+      "work_ids": [
+        "work-cct_ref_015",
+        "work-cct_ref_015_b"
+      ]
+    },
+    {
+      "id": "ref-016",
+      "number": 16,
+      "raw_reference": "[16] Cedar Policy Language Reference Guide, “How Cedar authorization works.”",
+      "published_text": "Cedar Policy Language Reference Guide, “How Cedar authorization works.”",
+      "published_markdown": "Cedar Policy Language Reference Guide, [“How Cedar authorization works.”](https://docs.cedarpolicy.com/auth/authorization.html)",
+      "work_ids": [
+        "work-cct_ref_016"
+      ]
+    },
+    {
+      "id": "ref-017",
+      "number": 17,
+      "raw_reference": "[17] Cedar Policy Language Reference Guide, “Best practice: Using the context” and “What is Cedar?”",
+      "published_text": "Cedar Policy Language Reference Guide, “Best practice: Using the context” and “What is Cedar?”",
+      "published_markdown": "Cedar Policy Language Reference Guide, [“Best practice: Using the context”](https://docs.cedarpolicy.com/bestpractices/bp-using-the-context.html) and [“What is Cedar?”](https://docs.cedarpolicy.com/)",
+      "work_ids": [
+        "work-cct_ref_017",
+        "work-cct_ref_017_b"
+      ]
+    },
+    {
+      "id": "ref-018",
+      "number": 18,
+      "raw_reference": "[18] KurrentDB Documentation, “Appending events” and KurrentDB v26.0 release notes.",
+      "published_text": "KurrentDB Documentation, “Appending events” and KurrentDB v26.0 release notes.",
+      "published_markdown": "KurrentDB Documentation, [“Appending events”](https://docs.kurrent.io/clients/node/v1.3/appending-events) and [KurrentDB v26.0 release notes](https://docs.kurrent.io/server/v26.0/release-schedule/release-notes).",
+      "work_ids": [
+        "work-cct_ref_018",
+        "work-cct_ref_018_b"
+      ]
+    },
+    {
+      "id": "ref-019",
+      "number": 19,
+      "raw_reference": "[19] in-toto Documentation, “Getting started.”",
+      "published_text": "in-toto Documentation, “Getting started.”",
+      "published_markdown": "in-toto Documentation, [“Getting started.”](https://in-toto.io/docs/getting-started/)",
+      "work_ids": [
+        "work-cct_ref_019"
+      ]
+    },
+    {
+      "id": "ref-020",
+      "number": 20,
+      "raw_reference": "[20] Sigstore Documentation, “Overview.”",
+      "published_text": "Sigstore Documentation, “Overview.”",
+      "published_markdown": "Sigstore Documentation, [“Overview.”](https://docs.sigstore.dev/)",
+      "work_ids": [
+        "work-cct_ref_020"
+      ]
+    },
+    {
+      "id": "ref-021",
+      "number": 21,
+      "raw_reference": "[21] I. Schrock, “The Action Evidence Boundary for Consequential Agent Effects,” Work in Progress, Internet-Draft draft-schrock-action-evidence-boundary-05, August 2026.",
+      "published_text": "I. Schrock, “The Action Evidence Boundary for Consequential Agent Effects,” Work in Progress, Internet-Draft draft-schrock-action-evidence-boundary-05, August 2026.",
+      "published_markdown": "I. Schrock, [“The Action Evidence Boundary for Consequential Agent Effects,”](https://datatracker.ietf.org/doc/draft-schrock-action-evidence-boundary/) Work in Progress, Internet-Draft draft-schrock-action-evidence-boundary-05, August 2026.",
+      "work_ids": [
+        "work-cct_ref_021"
+      ]
+    },
+    {
+      "id": "ref-022",
+      "number": 22,
+      "raw_reference": "[22] M. Wu, L. Wang, Y. Zhang, and J. Deng, “From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,” arXiv:2609.11596, September 2026.",
+      "published_text": "M. Wu, L. Wang, Y. Zhang, and J. Deng, “From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,” arXiv:2609.11596, September 2026.",
+      "published_markdown": "M. Wu, L. Wang, Y. Zhang, and J. Deng, [“From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,”](https://arxiv.org/abs/2609.11596) arXiv:2609.11596, September 2026.",
+      "work_ids": [
+        "work-cct_ref_022"
+      ]
+    },
+    {
+      "id": "ref-023",
+      "number": 23,
+      "raw_reference": "[23] D. Wadkins, “Independent Determinability of Agent Actions,” Work in Progress, Internet-Draft draft-wadkins-agentproto-action-determinability-00, September 2026.",
+      "published_text": "D. Wadkins, “Independent Determinability of Agent Actions,” Work in Progress, Internet-Draft draft-wadkins-agentproto-action-determinability-00, September 2026.",
+      "published_markdown": "D. Wadkins, [“Independent Determinability of Agent Actions,”](https://datatracker.ietf.org/doc/draft-wadkins-agentproto-action-determinability/) Work in Progress, Internet-Draft draft-wadkins-agentproto-action-determinability-00, September 2026.",
+      "work_ids": [
+        "work-cct_ref_023"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "work-cct_ref_001",
+      "citekey": "cct_ref_001",
+      "type": "manuscript",
+      "title": "Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,",
+      "published_title": "Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          19
+        ]
+      },
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://doi.org/10.5281/zenodo.22842197",
+      "doi": "10.5281/zenodo.22842197",
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-001"
+      ],
+      "published_context": "Brad Pierce, “Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,” Zenodo, 2026.",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-001",
+          "text": "Brad Pierce, “Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,” Zenodo, 2026."
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-001",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          },
+          {
+            "source": "https://zenodo.org/api/records/22842197",
+            "authority": "Official Zenodo publication_date and creators; title/subtitle difference is adjudicated separately.",
+            "status": "live-record-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-001",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          },
+          {
+            "source": "https://zenodo.org/api/records/22842197",
+            "authority": "Official Zenodo publication_date and creators; title/subtitle difference is adjudicated separately.",
+            "status": "live-record-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-001",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          },
+          {
+            "source": "https://zenodo.org/api/records/22842197",
+            "authority": "Official Zenodo publication_date and creators; title/subtitle difference is adjudicated separately.",
+            "status": "live-record-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-001",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          },
+          {
+            "source": "https://zenodo.org/api/records/22842197",
+            "authority": "Official Zenodo publication_date and creators; title/subtitle difference is adjudicated separately.",
+            "status": "live-record-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://zenodo.org/api/records/22842197",
+        "status": "live-record-verified",
+        "retrieved_on": "2026-10-12",
+        "record_id": 22842198,
+        "registered_title": "Agents Act. Systems Remember. Rules Authorize. People Govern."
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_002",
+      "citekey": "cct_ref_002",
+      "type": "webpage",
+      "title": "Temporal Workflow",
+      "published_title": "Temporal Workflow",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Temporal Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.temporal.io/workflows",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-002"
+      ],
+      "published_context": "Temporal Documentation, “Temporal Workflow.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-002",
+          "text": "Temporal Documentation, “Temporal Workflow.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-002",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-002",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-002",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-002",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.temporal.io/workflows",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Temporal Workflow | Temporal Documentation",
+        "sha256": "ae322816f74759dfd6b3af45a838122531308ca3756965b7ab3b11af33690f57"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_003",
+      "citekey": "cct_ref_003",
+      "type": "webpage",
+      "title": "Events and Event History",
+      "published_title": "Events and Event History",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Temporal Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.temporal.io/workflow-execution/event",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-003"
+      ],
+      "published_context": "Temporal Documentation, “Events and Event History.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-003",
+          "text": "Temporal Documentation, “Events and Event History.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-003",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-003",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-003",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-003",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.temporal.io/workflow-execution/event",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Events and Event History | Temporal Documentation",
+        "sha256": "ef3b4266642b98435547d73a381ca996be68b12e9b1b40ba9170bb1968758b61"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_004",
+      "citekey": "cct_ref_004",
+      "type": "webpage",
+      "title": "Workflow Protocol — State & History",
+      "published_title": "Workflow Protocol — State & History",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Dapr Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.dapr.io/contributing/protocol-reference/workflow-protocol/workflow-protocol-state-and-history/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-004"
+      ],
+      "published_context": "Dapr Documentation, “Workflow Protocol — State & History” and “Workflow overview.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-004",
+          "text": "Dapr Documentation, “Workflow Protocol — State & History” and “Workflow overview.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-004",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-004",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-004",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-004",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.dapr.io/contributing/protocol-reference/workflow-protocol/workflow-protocol-state-and-history/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Workflow Protocol - State & History | Dapr Docs logo large white on dark",
+        "sha256": "d5ddaeb0e3cf38ed997ae9cedd31f6dadb7be37d2f91201c1a4a29adcb92510e"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_004_b",
+      "citekey": "cct_ref_004_b",
+      "type": "webpage",
+      "title": "Workflow overview",
+      "published_title": "Workflow overview",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Dapr Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-004"
+      ],
+      "published_context": "Dapr Documentation, “Workflow Protocol — State & History” and “Workflow overview.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-004",
+          "text": "Dapr Documentation, “Workflow Protocol — State & History” and “Workflow overview.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-004",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-004",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-004",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-004",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Workflow overview | Dapr Docs logo large white on dark",
+        "sha256": "6128702a950cdd045d06de4a21762af562864b4053bce02bf1f2f17f638d8470"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_005",
+      "citekey": "cct_ref_005",
+      "type": "webpage",
+      "title": "Workflow history signing",
+      "published_title": "Workflow history signing",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Dapr Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-signing/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-005"
+      ],
+      "published_context": "Dapr Documentation, “Workflow history signing.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-005",
+          "text": "Dapr Documentation, “Workflow history signing.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-005",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-005",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-005",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-005",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-signing/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Workflow history signing | Dapr Docs logo large white on dark",
+        "sha256": "bfc62408c57c9f71bfe20a1712f960c2a868ac60c6a7fa8ccd4e3a03e2d28324"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_006",
+      "citekey": "cct_ref_006",
+      "type": "webpage",
+      "title": "Workflow history propagation",
+      "published_title": "Workflow history propagation",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Dapr Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-propagation/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-006"
+      ],
+      "published_context": "Dapr Documentation, “Workflow history propagation.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-006",
+          "text": "Dapr Documentation, “Workflow history propagation.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-006",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-006",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-006",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-006",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-propagation/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Workflow history propagation | Dapr Docs logo large white on dark",
+        "sha256": "7b3d62d7e787cec38f9389e6868cb85fc8c68183f2f6ca008ba85d3b065bef67"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_007",
+      "citekey": "cct_ref_007",
+      "type": "webpage",
+      "title": "WorkflowAccessPolicy spec",
+      "published_title": "WorkflowAccessPolicy spec",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Dapr Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.dapr.io/reference/resource-specs/workflow-access-policy-schema/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-007"
+      ],
+      "published_context": "Dapr Documentation, “WorkflowAccessPolicy spec.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-007",
+          "text": "Dapr Documentation, “WorkflowAccessPolicy spec.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-007",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-007",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-007",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-007",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.dapr.io/reference/resource-specs/workflow-access-policy-schema/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "WorkflowAccessPolicy spec | Dapr Docs logo large white on dark",
+        "sha256": "9e75a20d935c6c84a3e543ffa8c2283f441ecf750d5bba3ef48378e14427c742"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_008",
+      "citekey": "cct_ref_008",
+      "type": "webpage",
+      "title": "Choosing workflow type in Step Functions",
+      "published_title": "Choosing workflow type in Step Functions",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "AWS Step Functions Developer Guide"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.aws.amazon.com/step-functions/latest/dg/choosing-workflow-type.html",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-008"
+      ],
+      "published_context": "AWS Step Functions Developer Guide, “Choosing workflow type in Step Functions.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-008",
+          "text": "AWS Step Functions Developer Guide, “Choosing workflow type in Step Functions.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-008",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-008",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-008",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-008",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.aws.amazon.com/step-functions/latest/dg/choosing-workflow-type.html",
+        "status": "route-unavailable",
+        "retrieved_on": "2026-10-12",
+        "title": "Site Unavailable",
+        "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+        "corroboration": "Official exact-page web reader returned the expected document; direct HTTP route returned a Site Unavailable wrapper."
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_009",
+      "citekey": "cct_ref_009",
+      "type": "webpage",
+      "title": "Discover service integration patterns in Step Functions",
+      "published_title": "Discover service integration patterns in Step Functions",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "AWS Step Functions Developer Guide"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-009"
+      ],
+      "published_context": "AWS Step Functions Developer Guide, “Discover service integration patterns in Step Functions.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-009",
+          "text": "AWS Step Functions Developer Guide, “Discover service integration patterns in Step Functions.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-009",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-009",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-009",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-009",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html",
+        "status": "route-unavailable",
+        "retrieved_on": "2026-10-12",
+        "title": "Site Unavailable",
+        "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+        "corroboration": "Official exact-page web reader returned the expected document; direct HTTP route returned a Site Unavailable wrapper."
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_010",
+      "citekey": "cct_ref_010",
+      "type": "webpage",
+      "title": "GetExecutionHistory",
+      "published_title": "GetExecutionHistory",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "AWS Step Functions API Reference"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.aws.amazon.com/step-functions/latest/apireference/API_GetExecutionHistory.html",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-010"
+      ],
+      "published_context": "AWS Step Functions API Reference, “GetExecutionHistory.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-010",
+          "text": "AWS Step Functions API Reference, “GetExecutionHistory.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-010",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-010",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-010",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-010",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.aws.amazon.com/step-functions/latest/apireference/API_GetExecutionHistory.html",
+        "status": "route-unavailable",
+        "retrieved_on": "2026-10-12",
+        "title": "Site Unavailable",
+        "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+        "corroboration": "Official exact-page web reader returned the expected document; direct HTTP route returned a Site Unavailable wrapper."
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_011",
+      "citekey": "cct_ref_011",
+      "type": "webpage",
+      "title": "User tasks",
+      "published_title": "User tasks",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Camunda 8 Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.camunda.io/docs/components/modeler/bpmn/user-tasks/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-011"
+      ],
+      "published_context": "Camunda 8 Documentation, “User tasks” and “User task authorization.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-011",
+          "text": "Camunda 8 Documentation, “User tasks” and “User task authorization.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-011",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-011",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-011",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-011",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.camunda.io/docs/components/modeler/bpmn/user-tasks/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "User tasks | Camunda 8 Docs (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window)",
+        "sha256": "0568545d82bfac378608fde8db0f552790e90f173185767d88551ca5136cc3b7"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_011_b",
+      "citekey": "cct_ref_011_b",
+      "type": "webpage",
+      "title": "User task authorization",
+      "published_title": "User task authorization",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Camunda 8 Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.camunda.io/docs/components/tasklist/user-task-authorization/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-011"
+      ],
+      "published_context": "Camunda 8 Documentation, “User tasks” and “User task authorization.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-011",
+          "text": "Camunda 8 Documentation, “User tasks” and “User task authorization.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-011",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-011",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-011",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-011",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.camunda.io/docs/components/tasklist/user-task-authorization/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "User task authorization | Camunda 8 Docs (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window)",
+        "sha256": "f4389e6a593700648d6735c8888ef1252bc72924a0b3dee8ef2b3ab982819f29"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_012",
+      "citekey": "cct_ref_012",
+      "type": "webpage",
+      "title": "LangGraph Persistence",
+      "published_title": "LangGraph Persistence",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "LangChain Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-012"
+      ],
+      "published_context": "LangChain Documentation, “LangGraph Persistence.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-012",
+          "text": "LangChain Documentation, “LangGraph Persistence.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-012",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-012",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-012",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-012",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Persistence - Docs by LangChain",
+        "sha256": "8ba48bb67e7f6cbc4dc0dcf351b2cb13952f99e0402172aef0ba0a64e1b9863a"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_013",
+      "citekey": "cct_ref_013",
+      "type": "webpage",
+      "title": "LangGraph Interrupts",
+      "published_title": "LangGraph Interrupts",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "LangChain Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-013"
+      ],
+      "published_context": "LangChain Documentation, “LangGraph Interrupts.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-013",
+          "text": "LangChain Documentation, “LangGraph Interrupts.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-013",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-013",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-013",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-013",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Interrupts - Docs by LangChain",
+        "sha256": "c77f1087d30b406d591ab55602214a0f39a2780f894a861a498e417c2b06873a"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_014",
+      "citekey": "cct_ref_014",
+      "type": "webpage",
+      "title": "How to Deploy OPA",
+      "published_title": "How to Deploy OPA",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Open Policy Agent Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://www.openpolicyagent.org/docs/deploy",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-014"
+      ],
+      "published_context": "Open Policy Agent Documentation, “How to Deploy OPA.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-014",
+          "text": "Open Policy Agent Documentation, “How to Deploy OPA.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-014",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-014",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-014",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-014",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.openpolicyagent.org/docs/deploy",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "How to Deploy OPA | Open Policy Agent",
+        "sha256": "64949a6b4c79ab3612b9bb759895ec459dffe2eb04f826db02f055fe564a01cf"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_015",
+      "citekey": "cct_ref_015",
+      "type": "webpage",
+      "title": "External Data",
+      "published_title": "External Data",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Open Policy Agent Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://www.openpolicyagent.org/docs/external-data",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-015"
+      ],
+      "published_context": "Open Policy Agent Documentation, “External Data” and “OPA Management APIs and Architecture.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-015",
+          "text": "Open Policy Agent Documentation, “External Data” and “OPA Management APIs and Architecture.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-015",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-015",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-015",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-015",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.openpolicyagent.org/docs/external-data",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "External Data | Open Policy Agent",
+        "sha256": "e81590f336794212f00bf82edadf3f8f0a376e755de462505587c01f48be4569"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_015_b",
+      "citekey": "cct_ref_015_b",
+      "type": "webpage",
+      "title": "OPA Management APIs and Architecture",
+      "published_title": "OPA Management APIs and Architecture",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Open Policy Agent Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://www.openpolicyagent.org/docs/management-introduction",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-015"
+      ],
+      "published_context": "Open Policy Agent Documentation, “External Data” and “OPA Management APIs and Architecture.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-015",
+          "text": "Open Policy Agent Documentation, “External Data” and “OPA Management APIs and Architecture.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-015",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-015",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-015",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-015",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.openpolicyagent.org/docs/management-introduction",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "OPA Management APIs and Architecture | Open Policy Agent",
+        "sha256": "664ffeb268451ba3b914778936fc46b9cd6cd70d0031fee3b9a788a871ead557"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_016",
+      "citekey": "cct_ref_016",
+      "type": "webpage",
+      "title": "How Cedar authorization works",
+      "published_title": "How Cedar authorization works",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Cedar Policy Language Reference Guide"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.cedarpolicy.com/auth/authorization.html",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-016"
+      ],
+      "published_context": "Cedar Policy Language Reference Guide, “How Cedar authorization works.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-016",
+          "text": "Cedar Policy Language Reference Guide, “How Cedar authorization works.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-016",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-016",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-016",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-016",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.cedarpolicy.com/auth/authorization.html",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Authorization | Cedar Policy Language Reference Guide Link Menu Expand (external link) Document Search Copy Copied",
+        "sha256": "6f3dfe980a5f14c00713d28e24d43a078297bafcbaa31b6a6ef37c8754240d09"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_017",
+      "citekey": "cct_ref_017",
+      "type": "webpage",
+      "title": "Best practice: Using the context",
+      "published_title": "Best practice: Using the context",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Cedar Policy Language Reference Guide"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.cedarpolicy.com/bestpractices/bp-using-the-context.html",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-017"
+      ],
+      "published_context": "Cedar Policy Language Reference Guide, “Best practice: Using the context” and “What is Cedar?”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-017",
+          "text": "Cedar Policy Language Reference Guide, “Best practice: Using the context” and “What is Cedar?”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-017",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-017",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-017",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-017",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.cedarpolicy.com/bestpractices/bp-using-the-context.html",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Using the context | Cedar Policy Language Reference Guide Link Menu Expand (external link) Document Search Copy Copied",
+        "sha256": "8b16b4fb15cd750f265f17126f1ab843090b1b08f29f6f26c80f6da15da456da"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_017_b",
+      "citekey": "cct_ref_017_b",
+      "type": "webpage",
+      "title": "What is Cedar?",
+      "published_title": "What is Cedar?",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Cedar Policy Language Reference Guide"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.cedarpolicy.com/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-017"
+      ],
+      "published_context": "Cedar Policy Language Reference Guide, “Best practice: Using the context” and “What is Cedar?”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-017",
+          "text": "Cedar Policy Language Reference Guide, “Best practice: Using the context” and “What is Cedar?”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-017",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-017",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-017",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-017",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.cedarpolicy.com/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "What is Cedar? | Cedar Policy Language Reference Guide Link Menu Expand (external link) Document Search Copy Copied",
+        "sha256": "d1137124779d3d643d65b9a64f17bd8006d7f9eab214eaf06cb892364669151a"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_018",
+      "citekey": "cct_ref_018",
+      "type": "webpage",
+      "title": "Appending events",
+      "published_title": "Appending events",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "KurrentDB Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.kurrent.io/clients/node/v1.3/appending-events",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-018"
+      ],
+      "published_context": "KurrentDB Documentation, “Appending events” and KurrentDB v26.0 release notes.",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-018",
+          "text": "KurrentDB Documentation, “Appending events” and KurrentDB v26.0 release notes."
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-018",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-018",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-018",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-018",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.kurrent.io/clients/node/v1.3/appending-events",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Appending events | Kurrent Docs",
+        "sha256": "338ef2fbd1eee01229e47fb59944bad9ac67f4b9cd6c77fcf6a4c188bad6fd9f"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_018_b",
+      "citekey": "cct_ref_018_b",
+      "type": "webpage",
+      "title": "KurrentDB v26.0 release notes",
+      "published_title": "KurrentDB v26.0 release notes",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "KurrentDB Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.kurrent.io/server/v26.0/release-schedule/release-notes",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-018"
+      ],
+      "published_context": "KurrentDB Documentation, “Appending events” and KurrentDB v26.0 release notes.",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-018",
+          "text": "KurrentDB Documentation, “Appending events” and KurrentDB v26.0 release notes."
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-018",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-018",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-018",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-018",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.kurrent.io/server/v26.0/release-schedule/release-notes",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Release notes | Kurrent Docs",
+        "sha256": "bb3ec479e590ebcd31d6e684bac32ea200de9d42dc84d1e4ccd4d9c55d675a71"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_019",
+      "citekey": "cct_ref_019",
+      "type": "webpage",
+      "title": "Getting started",
+      "published_title": "Getting started",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "in-toto Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://in-toto.io/docs/getting-started/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-019"
+      ],
+      "published_context": "in-toto Documentation, “Getting started.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-019",
+          "text": "in-toto Documentation, “Getting started.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-019",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-019",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-019",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-019",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://in-toto.io/docs/getting-started/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Getting started | in-toto",
+        "sha256": "9de19afb8ac5ca47bd8ae7017e50e26f45df6e5774f6d6c3ebcc046819171fd4"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_020",
+      "citekey": "cct_ref_020",
+      "type": "webpage",
+      "title": "Overview",
+      "published_title": "Overview",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Sigstore Documentation"
+        }
+      ],
+      "issued": {},
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://docs.sigstore.dev/",
+      "doi": null,
+      "arxiv": null,
+      "edition": null,
+      "reference_slots": [
+        "ref-020"
+      ],
+      "published_context": "Sigstore Documentation, “Overview.”",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-020",
+          "text": "Sigstore Documentation, “Overview.”"
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-020",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-020",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-020",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-020",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://docs.sigstore.dev/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "Overview - Sigstore Expand Collapse Expand Collapse",
+        "sha256": "ba8e1be8b7ffd811ca6ec0f2b2a8fe7134afea623c83501ffecbef26878fb3a1"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_021",
+      "citekey": "cct_ref_021",
+      "type": "manuscript",
+      "title": "The Action Evidence Boundary for Consequential Agent Effects,",
+      "published_title": "The Action Evidence Boundary for Consequential Agent Effects,",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Schrock",
+          "given": "I."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          8
+        ]
+      },
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://datatracker.ietf.org/doc/html/draft-schrock-action-evidence-boundary-05",
+      "doi": null,
+      "arxiv": null,
+      "edition": "draft-schrock-action-evidence-boundary-05",
+      "reference_slots": [
+        "ref-021"
+      ],
+      "published_context": "I. Schrock, “The Action Evidence Boundary for Consequential Agent Effects,” Work in Progress, Internet-Draft draft-schrock-action-evidence-boundary-05, August 2026.",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-021",
+          "text": "I. Schrock, “The Action Evidence Boundary for Consequential Agent Effects,” Work in Progress, Internet-Draft draft-schrock-action-evidence-boundary-05, August 2026."
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-021",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-021",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-021",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-021",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://datatracker.ietf.org/doc/html/draft-schrock-action-evidence-boundary-05",
+        "status": "exact-draft-retrieved",
+        "retrieved_on": "2026-10-12"
+      },
+      "alternate_urls": [
+        "https://datatracker.ietf.org/doc/draft-schrock-action-evidence-boundary/"
+      ]
+    },
+    {
+      "id": "work-cct_ref_022",
+      "citekey": "cct_ref_022",
+      "type": "manuscript",
+      "title": "From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,",
+      "published_title": "From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Wu",
+          "given": "Mengting"
+        },
+        {
+          "family": "Wang",
+          "given": "Lin"
+        },
+        {
+          "family": "Zhang",
+          "given": "Yong"
+        },
+        {
+          "family": "Deng",
+          "given": "Jiang"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          10
+        ]
+      },
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://arxiv.org/abs/2609.11596",
+      "doi": null,
+      "arxiv": "2609.11596",
+      "edition": null,
+      "reference_slots": [
+        "ref-022"
+      ],
+      "published_context": "M. Wu, L. Wang, Y. Zhang, and J. Deng, “From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,” arXiv:2609.11596, September 2026.",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-022",
+          "text": "M. Wu, L. Wang, Y. Zhang, and J. Deng, “From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,” arXiv:2609.11596, September 2026."
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-022",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          },
+          {
+            "source": "https://arxiv.org/abs/2609.11596",
+            "authority": "Official arXiv citation_author and citation_date metadata",
+            "status": "live-body-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-022",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          },
+          {
+            "source": "https://arxiv.org/abs/2609.11596",
+            "authority": "Official arXiv citation_author and citation_date metadata",
+            "status": "live-body-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-022",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          },
+          {
+            "source": "https://arxiv.org/abs/2609.11596",
+            "authority": "Official arXiv citation_author and citation_date metadata",
+            "status": "live-body-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-022",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          },
+          {
+            "source": "https://arxiv.org/abs/2609.11596",
+            "authority": "Official arXiv citation_author and citation_date metadata",
+            "status": "live-body-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://arxiv.org/abs/2609.11596",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "[2609.11596] From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions",
+        "sha256": "1fccb1fba585e1714f8f72e0a7a4a11586edd3ce6740a2f4d1d3a4c5f4ffebcb"
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-cct_ref_023",
+      "citekey": "cct_ref_023",
+      "type": "manuscript",
+      "title": "Independent Determinability of Agent Actions,",
+      "published_title": "Independent Determinability of Agent Actions,",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Wadkins",
+          "given": "D."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9
+        ]
+      },
+      "accessed": {
+        "date_parts": [
+          2026,
+          10,
+          12
+        ]
+      },
+      "url": "https://datatracker.ietf.org/doc/draft-wadkins-agentproto-action-determinability/",
+      "doi": null,
+      "arxiv": null,
+      "edition": "draft-wadkins-agentproto-action-determinability-00",
+      "reference_slots": [
+        "ref-023"
+      ],
+      "published_context": "D. Wadkins, “Independent Determinability of Agent Actions,” Work in Progress, Internet-Draft draft-wadkins-agentproto-action-determinability-00, September 2026.",
+      "published_contexts": [
+        {
+          "reference_slot_id": "ref-023",
+          "text": "D. Wadkins, “Independent Determinability of Agent Actions,” Work in Progress, Internet-Draft draft-wadkins-agentproto-action-determinability-00, September 2026."
+        }
+      ],
+      "field_provenance": {
+        "title": [
+          {
+            "source": "ref-023",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "ref-023",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "ref-023",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "ref-023",
+            "authority": "Exact published reference and canonical manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://datatracker.ietf.org/doc/draft-wadkins-agentproto-action-determinability/",
+        "status": "live-body-verified",
+        "retrieved_on": "2026-10-12",
+        "title": "draft-wadkins-agentproto-action-determinability-00 - Independent Determinability of Agent Actions",
+        "sha256": "ea534cbaf21e6ad332a989945aad457452c0f9fa07bee9dd5ba7c5d198c39e28"
+      },
+      "alternate_urls": []
+    }
+  ],
+  "reference_work_links": [
+    {
+      "reference_slot_id": "ref-001",
+      "work_id": "work-cct_ref_001",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-002",
+      "work_id": "work-cct_ref_002",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-003",
+      "work_id": "work-cct_ref_003",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-004",
+      "work_id": "work-cct_ref_004",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-004",
+      "work_id": "work-cct_ref_004_b",
+      "role": "supporting",
+      "order": 2
+    },
+    {
+      "reference_slot_id": "ref-005",
+      "work_id": "work-cct_ref_005",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-006",
+      "work_id": "work-cct_ref_006",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-007",
+      "work_id": "work-cct_ref_007",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-008",
+      "work_id": "work-cct_ref_008",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-009",
+      "work_id": "work-cct_ref_009",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-010",
+      "work_id": "work-cct_ref_010",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-011",
+      "work_id": "work-cct_ref_011",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-011",
+      "work_id": "work-cct_ref_011_b",
+      "role": "supporting",
+      "order": 2
+    },
+    {
+      "reference_slot_id": "ref-012",
+      "work_id": "work-cct_ref_012",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-013",
+      "work_id": "work-cct_ref_013",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-014",
+      "work_id": "work-cct_ref_014",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-015",
+      "work_id": "work-cct_ref_015",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-015",
+      "work_id": "work-cct_ref_015_b",
+      "role": "supporting",
+      "order": 2
+    },
+    {
+      "reference_slot_id": "ref-016",
+      "work_id": "work-cct_ref_016",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-017",
+      "work_id": "work-cct_ref_017",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-017",
+      "work_id": "work-cct_ref_017_b",
+      "role": "supporting",
+      "order": 2
+    },
+    {
+      "reference_slot_id": "ref-018",
+      "work_id": "work-cct_ref_018",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-018",
+      "work_id": "work-cct_ref_018_b",
+      "role": "supporting",
+      "order": 2
+    },
+    {
+      "reference_slot_id": "ref-019",
+      "work_id": "work-cct_ref_019",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-020",
+      "work_id": "work-cct_ref_020",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-021",
+      "work_id": "work-cct_ref_021",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-022",
+      "work_id": "work-cct_ref_022",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-023",
+      "work_id": "work-cct_ref_023",
+      "role": "primary",
+      "order": 1
+    }
+  ],
+  "adjudications": [
+    {
+      "reference_slot": "ref-001",
+      "decision": "The publication uses title plus subtitle; the Zenodo record title is shorter. Published wording is retained, with registry title recorded separately. The live record supplies 2026-09-19 and confirms Brad Pierce."
+    },
+    {
+      "reference_slot": "ref-021",
+      "decision": "Normalized URL pins cited -05 draft; the unchanged publication links the rolling landing page, currently -07."
+    }
+  ],
+  "exceptions": [
+    {
+      "work_id": "work-cct_ref_002",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_003",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_004",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_004_b",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_005",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_006",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_007",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "reference_slot": "ref-008",
+      "field": "publication_date",
+      "status": "unknown",
+      "reason": "Undated official documentation; no date installed. Direct HTTP wrapper is not treated as document-body verification."
+    },
+    {
+      "work_id": "work-cct_ref_008",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "reference_slot": "ref-009",
+      "field": "publication_date",
+      "status": "unknown",
+      "reason": "Undated official documentation; no date installed. Direct HTTP wrapper is not treated as document-body verification."
+    },
+    {
+      "work_id": "work-cct_ref_009",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "reference_slot": "ref-010",
+      "field": "publication_date",
+      "status": "unknown",
+      "reason": "Undated official documentation; no date installed. Direct HTTP wrapper is not treated as document-body verification."
+    },
+    {
+      "work_id": "work-cct_ref_010",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_011",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_011_b",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_012",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_013",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_014",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_015",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_015_b",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_016",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_017",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_017_b",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_018",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_018_b",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_019",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    },
+    {
+      "work_id": "work-cct_ref_020",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No publication date appears in the cited reference. Access date is recorded separately."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "The DOI-linked Zenodo technical note is the publication of record."
+title: "Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows"
+authors:
+  - family-names: Pierce
+    given-names: Brad
+    orcid: "https://orcid.org/0009-0009-7427-2969"
+doi: 10.5281/zenodo.22890942
+date-released: 2026-09-22
+url: https://zenodo.org/records/22890942
+license: CC-BY-4.0

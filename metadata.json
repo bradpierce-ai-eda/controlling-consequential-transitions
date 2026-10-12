@@ -1,0 +1,40 @@
+{
+  "title": "Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows",
+  "subtitle": "An Execution Contract and Architecture-Review Method for Agent Workflows",
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-09-22",
+  "doi": "10.5281/zenodo.22890942",
+  "concept_doi": "10.5281/zenodo.22890941",
+  "zenodo_record": "https://zenodo.org/records/22890942",
+  "url": "https://bradpierce.ai/controlling-consequential-transitions/",
+  "pdf_url": "https://bradpierce.ai/controlling-consequential-transitions/controlling-consequential-transitions.pdf",
+  "abstract": "“Agents Act. Systems Remember. Rules Authorize. People Govern.” separates productive work, trusted evidence, authorization, and human decision points [1]. This paper asks what execution contract makes those separations enforceable in software. It treats the consequential state transition as the unit of control: evidence is gathered, policy evaluated, scoped authority granted, effects executed, outcomes observed, and authoritative state committed under one reconstructable identity. Existing workflow, policy, provenance, event-history, human-task, and agent-checkpointing systems already provide most of the required primitives. In the systems reviewed here, however, the complete evidence → policy → authority → effect → observation → commit relation is not first-class across product boundaries. The paper derives fourteen requirements and a reference architecture that make this relation explicit and testable, with bounded authority, enforcement at the real effect boundary, independent observation, and reconstructable history. The contract can be realized by composition, a protocol/profile, or an integrated runtime. This is a design sketch rather than an implementation result; its failure-oriented acceptance tests define the proposed validation surface.",
+  "keywords": [
+    "consequential transitions",
+    "agent workflows",
+    "AI agents",
+    "agentic systems",
+    "execution contracts",
+    "workflow orchestration",
+    "durable execution",
+    "policy as code",
+    "authorization",
+    "evidence provenance",
+    "auditability",
+    "runtime governance"
+  ],
+  "license": "CC-BY-4.0",
+  "resource_type": "Technical note",
+  "preferred_citation": "Brad Pierce. Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows. Zenodo, 2026. https://doi.org/10.5281/zenodo.22890942.",
+  "relevance_and_citation_scope": [
+    "This technical note is an appropriate citation for the consequential state transition as a unit of control; its seven-stage execution contract; fourteen requirements; reference architecture; matched-effort alternatives; failure-oriented acceptance tests; and architecture-review diagnostic for agent workflows.",
+    "Specific product capabilities and prior mechanisms remain attributable to the primary sources in the numbered bibliography. This note provides a synthesis and engineering proposal, not a product ranking or market survey.",
+    "The paper is a design sketch, not an implementation result. The stronger contract has to earn its complexity against simpler alternatives. Independent observation and reconstructable history are explicit parts of the proposed validation surface.",
+    "The DOI-linked Zenodo record is the publication of record. These GitHub editions reflect the frozen September 22, 2026 publication. Repository-added metadata is separate from the canonical paper content."
+  ]
+}

@@ -1,0 +1,643 @@
+[
+  {
+    "id": "cct_ref_001",
+    "type": "manuscript",
+    "title": "Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,",
+    "DOI": "10.5281/zenodo.22842197",
+    "URL": "https://doi.org/10.5281/zenodo.22842197",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          19
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-001. Published context: Brad Pierce, “Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,” Zenodo, 2026."
+  },
+  {
+    "id": "cct_ref_002",
+    "type": "webpage",
+    "title": "Temporal Workflow",
+    "URL": "https://docs.temporal.io/workflows",
+    "author": [
+      {
+        "literal": "Temporal Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-002. Published context: Temporal Documentation, “Temporal Workflow.”"
+  },
+  {
+    "id": "cct_ref_003",
+    "type": "webpage",
+    "title": "Events and Event History",
+    "URL": "https://docs.temporal.io/workflow-execution/event",
+    "author": [
+      {
+        "literal": "Temporal Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-003. Published context: Temporal Documentation, “Events and Event History.”"
+  },
+  {
+    "id": "cct_ref_004",
+    "type": "webpage",
+    "title": "Workflow Protocol — State & History",
+    "URL": "https://docs.dapr.io/contributing/protocol-reference/workflow-protocol/workflow-protocol-state-and-history/",
+    "author": [
+      {
+        "literal": "Dapr Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-004. Published context: Dapr Documentation, “Workflow Protocol — State & History” and “Workflow overview.”"
+  },
+  {
+    "id": "cct_ref_004_b",
+    "type": "webpage",
+    "title": "Workflow overview",
+    "URL": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/",
+    "author": [
+      {
+        "literal": "Dapr Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-004. Published context: Dapr Documentation, “Workflow Protocol — State & History” and “Workflow overview.”"
+  },
+  {
+    "id": "cct_ref_005",
+    "type": "webpage",
+    "title": "Workflow history signing",
+    "URL": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-signing/",
+    "author": [
+      {
+        "literal": "Dapr Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-005. Published context: Dapr Documentation, “Workflow history signing.”"
+  },
+  {
+    "id": "cct_ref_006",
+    "type": "webpage",
+    "title": "Workflow history propagation",
+    "URL": "https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-propagation/",
+    "author": [
+      {
+        "literal": "Dapr Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-006. Published context: Dapr Documentation, “Workflow history propagation.”"
+  },
+  {
+    "id": "cct_ref_007",
+    "type": "webpage",
+    "title": "WorkflowAccessPolicy spec",
+    "URL": "https://docs.dapr.io/reference/resource-specs/workflow-access-policy-schema/",
+    "author": [
+      {
+        "literal": "Dapr Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-007. Published context: Dapr Documentation, “WorkflowAccessPolicy spec.”"
+  },
+  {
+    "id": "cct_ref_008",
+    "type": "webpage",
+    "title": "Choosing workflow type in Step Functions",
+    "URL": "https://docs.aws.amazon.com/step-functions/latest/dg/choosing-workflow-type.html",
+    "author": [
+      {
+        "literal": "AWS Step Functions Developer Guide"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-008. Published context: AWS Step Functions Developer Guide, “Choosing workflow type in Step Functions.”"
+  },
+  {
+    "id": "cct_ref_009",
+    "type": "webpage",
+    "title": "Discover service integration patterns in Step Functions",
+    "URL": "https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html",
+    "author": [
+      {
+        "literal": "AWS Step Functions Developer Guide"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-009. Published context: AWS Step Functions Developer Guide, “Discover service integration patterns in Step Functions.”"
+  },
+  {
+    "id": "cct_ref_010",
+    "type": "webpage",
+    "title": "GetExecutionHistory",
+    "URL": "https://docs.aws.amazon.com/step-functions/latest/apireference/API_GetExecutionHistory.html",
+    "author": [
+      {
+        "literal": "AWS Step Functions API Reference"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-010. Published context: AWS Step Functions API Reference, “GetExecutionHistory.”"
+  },
+  {
+    "id": "cct_ref_011",
+    "type": "webpage",
+    "title": "User tasks",
+    "URL": "https://docs.camunda.io/docs/components/modeler/bpmn/user-tasks/",
+    "author": [
+      {
+        "literal": "Camunda 8 Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-011. Published context: Camunda 8 Documentation, “User tasks” and “User task authorization.”"
+  },
+  {
+    "id": "cct_ref_011_b",
+    "type": "webpage",
+    "title": "User task authorization",
+    "URL": "https://docs.camunda.io/docs/components/tasklist/user-task-authorization/",
+    "author": [
+      {
+        "literal": "Camunda 8 Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-011. Published context: Camunda 8 Documentation, “User tasks” and “User task authorization.”"
+  },
+  {
+    "id": "cct_ref_012",
+    "type": "webpage",
+    "title": "LangGraph Persistence",
+    "URL": "https://docs.langchain.com/oss/python/langgraph/persistence",
+    "author": [
+      {
+        "literal": "LangChain Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-012. Published context: LangChain Documentation, “LangGraph Persistence.”"
+  },
+  {
+    "id": "cct_ref_013",
+    "type": "webpage",
+    "title": "LangGraph Interrupts",
+    "URL": "https://docs.langchain.com/oss/python/langgraph/interrupts",
+    "author": [
+      {
+        "literal": "LangChain Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-013. Published context: LangChain Documentation, “LangGraph Interrupts.”"
+  },
+  {
+    "id": "cct_ref_014",
+    "type": "webpage",
+    "title": "How to Deploy OPA",
+    "URL": "https://www.openpolicyagent.org/docs/deploy",
+    "author": [
+      {
+        "literal": "Open Policy Agent Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-014. Published context: Open Policy Agent Documentation, “How to Deploy OPA.”"
+  },
+  {
+    "id": "cct_ref_015",
+    "type": "webpage",
+    "title": "External Data",
+    "URL": "https://www.openpolicyagent.org/docs/external-data",
+    "author": [
+      {
+        "literal": "Open Policy Agent Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-015. Published context: Open Policy Agent Documentation, “External Data” and “OPA Management APIs and Architecture.”"
+  },
+  {
+    "id": "cct_ref_015_b",
+    "type": "webpage",
+    "title": "OPA Management APIs and Architecture",
+    "URL": "https://www.openpolicyagent.org/docs/management-introduction",
+    "author": [
+      {
+        "literal": "Open Policy Agent Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-015. Published context: Open Policy Agent Documentation, “External Data” and “OPA Management APIs and Architecture.”"
+  },
+  {
+    "id": "cct_ref_016",
+    "type": "webpage",
+    "title": "How Cedar authorization works",
+    "URL": "https://docs.cedarpolicy.com/auth/authorization.html",
+    "author": [
+      {
+        "literal": "Cedar Policy Language Reference Guide"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-016. Published context: Cedar Policy Language Reference Guide, “How Cedar authorization works.”"
+  },
+  {
+    "id": "cct_ref_017",
+    "type": "webpage",
+    "title": "Best practice: Using the context",
+    "URL": "https://docs.cedarpolicy.com/bestpractices/bp-using-the-context.html",
+    "author": [
+      {
+        "literal": "Cedar Policy Language Reference Guide"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-017. Published context: Cedar Policy Language Reference Guide, “Best practice: Using the context” and “What is Cedar?”"
+  },
+  {
+    "id": "cct_ref_017_b",
+    "type": "webpage",
+    "title": "What is Cedar?",
+    "URL": "https://docs.cedarpolicy.com/",
+    "author": [
+      {
+        "literal": "Cedar Policy Language Reference Guide"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-017. Published context: Cedar Policy Language Reference Guide, “Best practice: Using the context” and “What is Cedar?”"
+  },
+  {
+    "id": "cct_ref_018",
+    "type": "webpage",
+    "title": "Appending events",
+    "URL": "https://docs.kurrent.io/clients/node/v1.3/appending-events",
+    "author": [
+      {
+        "literal": "KurrentDB Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-018. Published context: KurrentDB Documentation, “Appending events” and KurrentDB v26.0 release notes."
+  },
+  {
+    "id": "cct_ref_018_b",
+    "type": "webpage",
+    "title": "KurrentDB v26.0 release notes",
+    "URL": "https://docs.kurrent.io/server/v26.0/release-schedule/release-notes",
+    "author": [
+      {
+        "literal": "KurrentDB Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-018. Published context: KurrentDB Documentation, “Appending events” and KurrentDB v26.0 release notes."
+  },
+  {
+    "id": "cct_ref_019",
+    "type": "webpage",
+    "title": "Getting started",
+    "URL": "https://in-toto.io/docs/getting-started/",
+    "author": [
+      {
+        "literal": "in-toto Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-019. Published context: in-toto Documentation, “Getting started.”"
+  },
+  {
+    "id": "cct_ref_020",
+    "type": "webpage",
+    "title": "Overview",
+    "URL": "https://docs.sigstore.dev/",
+    "author": [
+      {
+        "literal": "Sigstore Documentation"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-020. Published context: Sigstore Documentation, “Overview.”"
+  },
+  {
+    "id": "cct_ref_021",
+    "type": "manuscript",
+    "title": "The Action Evidence Boundary for Consequential Agent Effects,",
+    "edition": "draft-schrock-action-evidence-boundary-05",
+    "URL": "https://datatracker.ietf.org/doc/html/draft-schrock-action-evidence-boundary-05",
+    "author": [
+      {
+        "family": "Schrock",
+        "given": "I."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-021. Published context: I. Schrock, “The Action Evidence Boundary for Consequential Agent Effects,” Work in Progress, Internet-Draft draft-schrock-action-evidence-boundary-05, August 2026."
+  },
+  {
+    "id": "cct_ref_022",
+    "type": "manuscript",
+    "title": "From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,",
+    "URL": "https://arxiv.org/abs/2609.11596",
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Mengting"
+      },
+      {
+        "family": "Wang",
+        "given": "Lin"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yong"
+      },
+      {
+        "family": "Deng",
+        "given": "Jiang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          10
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-022. Published context: M. Wu, L. Wang, Y. Zhang, and J. Deng, “From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,” arXiv:2609.11596, September 2026."
+  },
+  {
+    "id": "cct_ref_023",
+    "type": "manuscript",
+    "title": "Independent Determinability of Agent Actions,",
+    "edition": "draft-wadkins-agentproto-action-determinability-00",
+    "URL": "https://datatracker.ietf.org/doc/draft-wadkins-agentproto-action-determinability/",
+    "author": [
+      {
+        "family": "Wadkins",
+        "given": "D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-023. Published context: D. Wadkins, “Independent Determinability of Agent Actions,” Work in Progress, Internet-Draft draft-wadkins-agentproto-action-determinability-00, September 2026."
+  }
+]

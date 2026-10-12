@@ -1,0 +1,236 @@
+TY  - UNPB
+ID  - cct_ref_001
+AU  - Pierce, Brad
+TI  - Agents Act. Systems Remember. Rules Authorize. People Govern.: A Practical Architecture for Governed AI Agents,
+DO  - 10.5281/zenodo.22842197
+UR  - https://doi.org/10.5281/zenodo.22842197
+PY  - 2026
+DA  - 2026/9/19
+N1  - Published reference slots: ref-001
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_002
+AU  - Temporal Documentation
+TI  - Temporal Workflow
+UR  - https://docs.temporal.io/workflows
+N1  - Published reference slots: ref-002
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_003
+AU  - Temporal Documentation
+TI  - Events and Event History
+UR  - https://docs.temporal.io/workflow-execution/event
+N1  - Published reference slots: ref-003
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_004
+AU  - Dapr Documentation
+TI  - Workflow Protocol — State & History
+UR  - https://docs.dapr.io/contributing/protocol-reference/workflow-protocol/workflow-protocol-state-and-history/
+N1  - Published reference slots: ref-004
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_004_b
+AU  - Dapr Documentation
+TI  - Workflow overview
+UR  - https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/
+N1  - Published reference slots: ref-004
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_005
+AU  - Dapr Documentation
+TI  - Workflow history signing
+UR  - https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-signing/
+N1  - Published reference slots: ref-005
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_006
+AU  - Dapr Documentation
+TI  - Workflow history propagation
+UR  - https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-history-propagation/
+N1  - Published reference slots: ref-006
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_007
+AU  - Dapr Documentation
+TI  - WorkflowAccessPolicy spec
+UR  - https://docs.dapr.io/reference/resource-specs/workflow-access-policy-schema/
+N1  - Published reference slots: ref-007
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_008
+AU  - AWS Step Functions Developer Guide
+TI  - Choosing workflow type in Step Functions
+UR  - https://docs.aws.amazon.com/step-functions/latest/dg/choosing-workflow-type.html
+N1  - Published reference slots: ref-008
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_009
+AU  - AWS Step Functions Developer Guide
+TI  - Discover service integration patterns in Step Functions
+UR  - https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html
+N1  - Published reference slots: ref-009
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_010
+AU  - AWS Step Functions API Reference
+TI  - GetExecutionHistory
+UR  - https://docs.aws.amazon.com/step-functions/latest/apireference/API_GetExecutionHistory.html
+N1  - Published reference slots: ref-010
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_011
+AU  - Camunda 8 Documentation
+TI  - User tasks
+UR  - https://docs.camunda.io/docs/components/modeler/bpmn/user-tasks/
+N1  - Published reference slots: ref-011
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_011_b
+AU  - Camunda 8 Documentation
+TI  - User task authorization
+UR  - https://docs.camunda.io/docs/components/tasklist/user-task-authorization/
+N1  - Published reference slots: ref-011
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_012
+AU  - LangChain Documentation
+TI  - LangGraph Persistence
+UR  - https://docs.langchain.com/oss/python/langgraph/persistence
+N1  - Published reference slots: ref-012
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_013
+AU  - LangChain Documentation
+TI  - LangGraph Interrupts
+UR  - https://docs.langchain.com/oss/python/langgraph/interrupts
+N1  - Published reference slots: ref-013
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_014
+AU  - Open Policy Agent Documentation
+TI  - How to Deploy OPA
+UR  - https://www.openpolicyagent.org/docs/deploy
+N1  - Published reference slots: ref-014
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_015
+AU  - Open Policy Agent Documentation
+TI  - External Data
+UR  - https://www.openpolicyagent.org/docs/external-data
+N1  - Published reference slots: ref-015
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_015_b
+AU  - Open Policy Agent Documentation
+TI  - OPA Management APIs and Architecture
+UR  - https://www.openpolicyagent.org/docs/management-introduction
+N1  - Published reference slots: ref-015
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_016
+AU  - Cedar Policy Language Reference Guide
+TI  - How Cedar authorization works
+UR  - https://docs.cedarpolicy.com/auth/authorization.html
+N1  - Published reference slots: ref-016
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_017
+AU  - Cedar Policy Language Reference Guide
+TI  - Best practice: Using the context
+UR  - https://docs.cedarpolicy.com/bestpractices/bp-using-the-context.html
+N1  - Published reference slots: ref-017
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_017_b
+AU  - Cedar Policy Language Reference Guide
+TI  - What is Cedar?
+UR  - https://docs.cedarpolicy.com/
+N1  - Published reference slots: ref-017
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_018
+AU  - KurrentDB Documentation
+TI  - Appending events
+UR  - https://docs.kurrent.io/clients/node/v1.3/appending-events
+N1  - Published reference slots: ref-018
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_018_b
+AU  - KurrentDB Documentation
+TI  - KurrentDB v26.0 release notes
+UR  - https://docs.kurrent.io/server/v26.0/release-schedule/release-notes
+N1  - Published reference slots: ref-018
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_019
+AU  - in-toto Documentation
+TI  - Getting started
+UR  - https://in-toto.io/docs/getting-started/
+N1  - Published reference slots: ref-019
+ER  -
+
+TY  - ELEC
+ID  - cct_ref_020
+AU  - Sigstore Documentation
+TI  - Overview
+UR  - https://docs.sigstore.dev/
+N1  - Published reference slots: ref-020
+ER  -
+
+TY  - UNPB
+ID  - cct_ref_021
+AU  - Schrock, I.
+TI  - The Action Evidence Boundary for Consequential Agent Effects,
+UR  - https://datatracker.ietf.org/doc/html/draft-schrock-action-evidence-boundary-05
+PY  - 2026
+DA  - 2026/8
+L2  - https://datatracker.ietf.org/doc/draft-schrock-action-evidence-boundary/
+N1  - Published reference slots: ref-021
+ER  -
+
+TY  - UNPB
+ID  - cct_ref_022
+AU  - Wu, Mengting
+AU  - Wang, Lin
+AU  - Zhang, Yong
+AU  - Deng, Jiang
+TI  - From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions,
+UR  - https://arxiv.org/abs/2609.11596
+PY  - 2026
+DA  - 2026/9/10
+N1  - Published reference slots: ref-022
+ER  -
+
+TY  - UNPB
+ID  - cct_ref_023
+AU  - Wadkins, D.
+TI  - Independent Determinability of Agent Actions,
+UR  - https://datatracker.ietf.org/doc/draft-wadkins-agentproto-action-determinability/
+PY  - 2026
+DA  - 2026/9
+N1  - Published reference slots: ref-023
+ER  -
